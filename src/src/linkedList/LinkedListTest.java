@@ -12,6 +12,8 @@ public class LinkedListTest {
         a.add("Carl");
         a.add("Erica");
 
+        System.out.println("a[1]: " + a.get(1));  //使用get方法
+
         List<String> b = new LinkedList<>();
         b.add("Bob");
         b.add("Doug");
