@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ed34a850-8164-45fa-8c6a-5ea96ec44d2a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Spring_learn/lib/log4j-1.2.16.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring_learn/src/bean1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring_learn/src/bean2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring_learn/src/cn/itcast/bean/Bean2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring_learn/src/cn/itcast/bean/Bean2Factory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring_learn/src/cn/itcast/bean/TestIOC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring_learn/src/cn/itcast/ioc/TestIOC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring_learn/src/cn/itcast/ioc/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring_learn/src/ioc/TestService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring_learn/src/ioc/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring_learn/src/ioc/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring_learn/src/property/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring_learn/src/property/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring_learn/src/property/PropertyDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring_learn/src/property/TestIOC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/annotation/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bean1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/src/Concurrency/AttemptLocking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/src/Concurrency/CriticalSection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/src/Concurrency/EvenChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/src/Concurrency/EventGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/src/Concurrency/IntGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/src/Concurrency/Interrupting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/src/Concurrency/Joining.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/src/Concurrency/MutexEvenGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/src/Concurrency/OrnamentalGarden.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/src/Concurrency/SimpleDaemons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/src/Concurrency/SynchronizedEvenGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/src/Concurrency/ThreadLocalVariableHolder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/src/Concurrency/WaxOMatic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/src/exceptions/FullConstructors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/src/leetcode/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/src/leetcode/myPow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/src/quickstart/New.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/src/quickstart/QueueBehavior.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../src/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/out/production/src/META-INF/src.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/out/production/src/stringBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/out/production/src/treeSet/TreeSetTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../src/out/production/src/treeSet/TreeSetTest.class" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/annotation/User.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+              <folding>
+                <element signature="e#63#64#0" expanded="true" />
+                <element signature="e#84#85#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/bean1.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="10" column="60" selection-start-line="10" selection-start-column="60" selection-end-line="10" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="spring-beans.schema" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/annotation/User.java" />
+        <option value="$PROJECT_DIR$/src/bean1.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="3" />
+    <option name="y" value="23" />
+    <option name="width" value="1677" />
+    <option name="height" value="1003" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Spring注解" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring注解" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring注解" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring注解" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring注解" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring注解" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ed34a850-8164-45fa-8c6a-5ea96ec44d2a" name="Default Changelist" comment="" />
+      <created>1558620002077</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558620002077</updated>
+      <workItem from="1558620035739" duration="994000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="994000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="3" y="23" width="1677" height="1003" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2498469" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Spring" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/annotation/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#63#64#0" expanded="true" />
+            <element signature="e#84#85#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bean1.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="60" selection-start-line="10" selection-start-column="60" selection-end-line="10" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

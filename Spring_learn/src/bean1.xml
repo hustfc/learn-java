@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:p="http://www.springframework.org/schema/p"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+    <!--ioc入门-->
+    <!-- bean id="user" class="cn.itcast.ioc.User" scope="prototype"></bean-->
+
+<!--     使用有参数的构造-->
+<!--    <bean id="demo" class="property.PropertyDemo1">-->
+<!--        &lt;!&ndash;使用有参构造来注入&ndash;&gt;-->
+<!--        <constructor-arg name="username" value="hello"></constructor-arg>-->
+<!--    </bean>-->
+
+    <!--使用set方法注入属性-->
+<!--    <bean id="book" class="property.Book">-->
+<!--        &lt;!&ndash;注入属性值 name属性值是类里面属性的名称 value是我们设置的具体的值&ndash;&gt;-->
+<!--        <property name="bookName" value="haha"></property>-->
+<!--    </bean>-->
+
+    <!--对象注入-->
+    <!--创建两个对象-->
+    <bean id="dao" class="ioc.UserDao"></bean>
+    <bean id="service" class="ioc.UserService">
+        <!--不要写value，因为不是字符串，写bean标签中id的值-->
+        <property name="userDao" ref="dao"></property>
+    </bean>
+
+    <!--名称空间注入-->
+    <!--p冒号后面加上属性的值，后面加上value，用的不是很多-->
+<!--    <bean id="person" class="property.Person" p:name="Lucy"></bean>-->
+
+    <!--注入复杂类型的属性-->
+
+    <bean id="person" class="property.Person">
+        <!--1. 数组-->
+         <property name="arrs">
+             <list>
+                 <value>"hello"</value>
+                 <value>"world"</value>
+                 <value>"array"</value>
+             </list>
+         </property>
+        <!--2. list-->
+        <property name="list">
+            <list>
+                <value>"pig"</value>
+                <value>"cat"</value>
+            </list>
+        </property>
+        <!--3. map-->
+        <property name="map">
+            <map>
+                <entry key="aa" value="Lucy"></entry>
+                <entry key="bb" value="Mary"></entry>
+                <entry key="cc" value="Tom"></entry>
+            </map>
+        </property>
+        <!--4. properties-->
+        <property name="properties">
+            <props>
+                <prop key="driverClass">com.mysql.jdbc.Driver</prop>
+                <prop key="userName">root</prop>
+            </props>
+        </property>
+    </bean>
+
+</beans>
