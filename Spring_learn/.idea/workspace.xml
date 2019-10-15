@@ -2,45 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="97fbb327-ab97-4c2a-8acf-3e651e1069f2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lib/log4j-1.2.16.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bean1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bean2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/itcast/bean/Bean2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/itcast/bean/Bean2Factory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/itcast/bean/TestIOC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/itcast/ioc/TestIOC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/itcast/ioc/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ioc/TestService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ioc/UserDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ioc/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/property/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/property/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/property/PropertyDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/property/TestIOC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring注解/src/annotation/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring注解/src/bean1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/src/Concurrency/AttemptLocking.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/src/Concurrency/CriticalSection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/src/Concurrency/EvenChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/src/Concurrency/EventGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/src/Concurrency/IntGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/src/Concurrency/Interrupting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/src/Concurrency/Joining.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/src/Concurrency/MutexEvenGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/src/Concurrency/OrnamentalGarden.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/src/Concurrency/SimpleDaemons.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/src/Concurrency/SynchronizedEvenGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/src/Concurrency/ThreadLocalVariableHolder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/src/Concurrency/WaxOMatic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/src/exceptions/FullConstructors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/src/leetcode/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/src/leetcode/myPow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/src/quickstart/New.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/src/quickstart/QueueBehavior.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../src/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/out/production/src/META-INF/src.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/out/production/src/stringBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/out/production/src/treeSet/TreeSetTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../src/out/production/src/treeSet/TreeSetTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/aspectjweaver_1_8_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/log4j_1_2_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/aspectjweaver-1.8.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aop/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aop/MyBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aop/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring注解/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring注解/src/annotation/TestAnno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring注解/src/annotation/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring注解/src/annotation/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring注解/src/bean2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring注解/src/xmlanno/BookDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring注解/src/xmlanno/BookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring注解/src/xmlanno/OrdersDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring_learn.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Spring_learn.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring_learn/bean1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring_learn/bean1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bean1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/bean1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring注解/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring注解/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring注解/Spring注解.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring注解/Spring注解.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring注解/src/annotation/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring注解/src/annotation/User.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -55,70 +38,55 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/bean1.xml">
+        <entry file="jar://$PROJECT_DIR$/lib/aopalliance-1.0.jar!/org/aopalliance/intercept/MethodInvocation.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1584">
-              <caret line="66" selection-start-line="66" selection-end-line="66" />
+            <state relative-caret-position="216">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ioc/TestService.java">
+        <entry file="file://$PROJECT_DIR$/src/bean2.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/bean3.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="576">
+              <caret line="24" column="27" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/aop/MyTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="96">
-              <caret line="6" selection-start-line="6" selection-end-line="13" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/property/Person.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="696">
-              <caret line="41" column="1" selection-end-line="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/property/Book.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-              <folding>
-                <element signature="e#113#114#0" expanded="true" />
-                <element signature="e#153#154#0" expanded="true" />
-                <element signature="e#182#183#0" expanded="true" />
-                <element signature="e#226#227#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/property/PropertyDemo1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="48">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-              <folding>
-                <element signature="e#119#120#0" expanded="true" />
-                <element signature="e#159#160#0" expanded="true" />
-                <element signature="e#185#186#0" expanded="true" />
-                <element signature="e#245#246#0" expanded="true" />
-              </folding>
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/property/TestIOC.java">
+        <entry file="file://$PROJECT_DIR$/src/log4j.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
+            <state relative-caret-position="336">
+              <caret line="14" column="29" lean-forward="true" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/itcast/ioc/TestIOC.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="12" column="64" selection-start-line="11" selection-start-column="8" selection-end-line="12" selection-end-column="64" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -127,19 +95,41 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ioc/UserService.java">
+        <entry file="file://$PROJECT_DIR$/src/aop/MyBook.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="19" column="1" selection-start-line="2" selection-end-line="19" selection-end-column="1" />
+            <state relative-caret-position="432">
+              <caret line="22" column="5" selection-start-line="13" selection-start-column="4" selection-end-line="22" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ioc/UserDao.java">
+        <entry file="file://$PROJECT_DIR$/src/aop/User.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/aop/Book.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="96">
-              <caret line="6" column="1" selection-end-line="7" />
+              <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+              <folding>
+                <element signature="e#76#77#0" expanded="true" />
+                <element signature="e#123#124#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/bean1.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="504">
+              <caret line="21" column="46" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -149,6 +139,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="module-info" />
+        <option value="FxmlFile" />
         <option value="spring-beans.schema" />
         <option value="Class" />
       </list>
@@ -173,7 +165,16 @@
         <option value="$PROJECT_DIR$/src/ioc/TestService.java" />
         <option value="$PROJECT_DIR$/src/property/Person.java" />
         <option value="$PROJECT_DIR$/src/property/TestIOC.java" />
+        <option value="$PROJECT_DIR$/src/aop/User.java" />
+        <option value="$PROJECT_DIR$/src/module-info.java" />
+        <option value="$PROJECT_DIR$/src/bean3.xml.fxml" />
         <option value="$PROJECT_DIR$/src/bean1.xml" />
+        <option value="$PROJECT_DIR$/src/aop/Test.java" />
+        <option value="$PROJECT_DIR$/src/aop/MyTest.java" />
+        <option value="$PROJECT_DIR$/src/aop/Book.java" />
+        <option value="$PROJECT_DIR$/src/aop/MyBook.java" />
+        <option value="$PROJECT_DIR$/src/bean3.xml" />
+        <option value="$PROJECT_DIR$/src/log4j.properties" />
       </list>
     </option>
   </component>
@@ -203,6 +204,17 @@
               <item name="Spring_learn" type="462c0819:PsiDirectoryNode" />
               <item name="lib" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Spring_learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring_learn" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring_learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring_learn" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="aop" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -216,14 +228,23 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.applicationServers" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/lib" />
     </key>
   </component>
@@ -239,17 +260,48 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TestIOC (2)">
-    <configuration name="TestIOC (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.MyTest.testAop">
+    <configuration name="MyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Spring_learn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.itcast.bean.*" />
+          <option name="PATTERN" value="aop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="cn.itcast.bean" />
-      <option name="MAIN_CLASS_NAME" value="cn.itcast.bean.TestIOC" />
+      <option name="PACKAGE_NAME" value="aop" />
+      <option name="MAIN_CLASS_NAME" value="aop.MyTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyTest.testAop" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Spring_learn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="aop" />
+      <option name="MAIN_CLASS_NAME" value="aop.MyTest" />
+      <option name="METHOD_NAME" value="testAop" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Spring_learn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="aop" />
+      <option name="MAIN_CLASS_NAME" value="aop.Test" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -270,42 +322,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestIOC" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Test.testAop" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Spring_learn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.itcast.ioc.*" />
+          <option name="PATTERN" value="aop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="cn.itcast.ioc" />
-      <option name="MAIN_CLASS_NAME" value="cn.itcast.ioc.TestIOC" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestService" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Spring_learn" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ioc.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ioc" />
-      <option name="MAIN_CLASS_NAME" value="ioc.TestService" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="aop" />
+      <option name="MAIN_CLASS_NAME" value="aop.Test" />
+      <option name="METHOD_NAME" value="testAop" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MyTest.testAop" />
+        <item itemvalue="JUnit.MyTest" />
+        <item itemvalue="JUnit.Test.testAop" />
+        <item itemvalue="JUnit.Test" />
         <item itemvalue="JUnit.TestIOC (2)" />
-        <item itemvalue="JUnit.TestService" />
-        <item itemvalue="JUnit.TestIOC" />
-        <item itemvalue="JUnit.TestIOC (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -327,49 +366,55 @@
       <workItem from="1558428092570" duration="5000" />
       <workItem from="1558527505829" duration="4416000" />
       <workItem from="1558619564307" duration="775000" />
+      <workItem from="1558776103140" duration="547000" />
+      <workItem from="1558857000316" duration="1477000" />
+      <workItem from="1558862141977" duration="3110000" />
+      <workItem from="1558867836007" duration="505000" />
+      <workItem from="1558956769116" duration="2130000" />
+      <workItem from="1559014334675" duration="182000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestIOC_(2) - 2019.05.21 at 13h 51m 34s.xml">
-      <configuration name="TestIOC (2)" configurationId="JUnit" />
+    <history-entry file="MyTest_testAop - 2019.05.26 at 18h 51m 13s.xml">
+      <configuration name="MyTest.testAop" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestIOC_(2) - 2019.05.21 at 13h 54m 29s.xml">
-      <configuration name="TestIOC (2)" configurationId="JUnit" />
+    <history-entry file="MyTest_testAop - 2019.05.26 at 18h 53m 48s.xml">
+      <configuration name="MyTest.testAop" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestIOC_(2) - 2019.05.21 at 13h 57m 54s.xml">
-      <configuration name="TestIOC (2)" configurationId="JUnit" />
+    <history-entry file="MyTest_testAop - 2019.05.26 at 18h 56m 05s.xml">
+      <configuration name="MyTest.testAop" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestIOC_(2) - 2019.05.21 at 14h 03m 45s.xml">
-      <configuration name="TestIOC (2)" configurationId="JUnit" />
+    <history-entry file="MyTest - 2019.05.27 at 19h 36m 07s.xml">
+      <configuration name="MyTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestService - 2019.05.22 at 20h 39m 31s.xml">
-      <configuration name="TestService" configurationId="JUnit" />
+    <history-entry file="MyTest_testAop - 2019.05.27 at 19h 45m 49s.xml">
+      <configuration name="MyTest.testAop" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestIOC_(2) - 2019.05.22 at 21h 55m 04s.xml">
-      <configuration name="TestIOC (2)" configurationId="JUnit" />
+    <history-entry file="MyTest_testAop - 2019.05.27 at 19h 49m 08s.xml">
+      <configuration name="MyTest.testAop" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestIOC_(2) - 2019.05.22 at 21h 56m 07s.xml">
-      <configuration name="TestIOC (2)" configurationId="JUnit" />
+    <history-entry file="MyTest_testAop - 2019.05.27 at 20h 31m 05s.xml">
+      <configuration name="MyTest.testAop" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestIOC_(2) - 2019.05.22 at 21h 57m 05s.xml">
-      <configuration name="TestIOC (2)" configurationId="JUnit" />
+    <history-entry file="MyTest_testAop - 2019.05.27 at 20h 42m 04s.xml">
+      <configuration name="MyTest.testAop" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestService - 2019.05.22 at 22h 01m 34s.xml">
-      <configuration name="TestService" configurationId="JUnit" />
+    <history-entry file="MyTest_testAop - 2019.05.27 at 20h 43m 48s.xml">
+      <configuration name="MyTest.testAop" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestIOC_(2) - 2019.05.22 at 22h 04m 31s.xml">
-      <configuration name="TestIOC (2)" configurationId="JUnit" />
+    <history-entry file="MyTest_testAop - 2019.05.27 at 20h 46m 14s.xml">
+      <configuration name="MyTest.testAop" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13616000" />
+    <option name="totallyTimeSpent" value="21567000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="3" y="23" width="1677" height="1003" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17636253" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18738519" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -378,8 +423,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.31023103" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.15621562" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39933994" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -387,7 +432,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Spring" order="9" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
-      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32893288" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -401,7 +446,7 @@
       <window_info anchor="right" id="Database" order="8" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22867803" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18187386" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -410,7 +455,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3281412" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.31023103" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -477,30 +522,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/itcast/ioc/TestIOC.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bean2.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" column="8" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bean1.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1584">
-          <caret line="66" selection-start-line="66" selection-end-line="66" />
         </state>
       </provider>
     </entry>
@@ -571,5 +592,207 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/module-info.java" />
+    <entry file="file://$PROJECT_DIR$/src/bean3.xml.fxml" />
+    <entry file="jar://$PROJECT_DIR$/lib/aopalliance-1.0.jar!/org/aopalliance/aop/Advice.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/aopalliance-1.0.jar!/org/aopalliance/aop/AspectException.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/aopalliance-1.0.jar!/org/aopalliance/intercept/ConstructorInterceptor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/aopalliance-1.0.jar!/org/aopalliance/intercept/ConstructorInvocation.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/aopalliance-1.0.jar!/org/aopalliance/intercept/Invocation.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bea3.xml" />
+    <entry file="file://$PROJECT_DIR$/src/aop/Test.java" />
+    <entry file="jar://$PROJECT_DIR$/lib/aopalliance-1.0.jar!/org/aopalliance/intercept/Joinpoint.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/aopalliance-1.0.jar!/org/aopalliance/intercept/MethodInterceptor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/aopalliance-1.0.jar!/org/aopalliance/intercept/MethodInvocation.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bean2.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bean3.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="24" column="27" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aop/MyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/itcast/ioc/TestIOC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="64" selection-start-line="11" selection-start-column="8" selection-end-line="12" selection-end-column="64" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aop/MyBook.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="22" column="5" selection-start-line="13" selection-start-column="4" selection-end-line="22" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aop/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aop/Book.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+          <folding>
+            <element signature="e#76#77#0" expanded="true" />
+            <element signature="e#123#124#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bean1.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="21" column="46" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="14" column="29" lean-forward="true" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>log4j-1.2.16</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

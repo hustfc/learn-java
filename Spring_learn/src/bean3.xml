@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xmlns:aop="http://www.springframework.org/schema/aop"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+           http://www.springframework.org/schema/beans/spring-beans-2.5.xsd
+           http://www.springframework.org/schema/context
+           http://www.springframework.org/schema/context/spring-context-2.5.xsd
+           http://www.springframework.org/schema/aop
+           http://www.springframework.org/schema/aop/spring-aop-3.1.xsd
+           "><!-- 要添加最后2行 -->
+
+        <bean id="book" class="aop.Book"></bean>
+        <bean id="myBook" class="aop.MyBook"></bean>
+
+
+        <aop:config>
+            <!--配置切入点-->
+            <aop:pointcut id="addPointCut" expression="execution(* aop.Book.*(..))"/>
+            <!--配置切面-->
+            <aop:aspect ref="myBook">
+                <!--配置增强类型-->
+                <aop:before method="before" pointcut-ref="addPointCut"/>
+                <aop:after method="after" pointcut-ref="addPointCut"/>
+                <aop:around method="around" pointcut-ref="addPointCut"/>
+            </aop:aspect>
+
+        </aop:config>
+
+</beans>

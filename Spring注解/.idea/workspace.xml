@@ -2,45 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed34a850-8164-45fa-8c6a-5ea96ec44d2a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Spring_learn/lib/log4j-1.2.16.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring_learn/src/bean1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring_learn/src/bean2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring_learn/src/cn/itcast/bean/Bean2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring_learn/src/cn/itcast/bean/Bean2Factory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring_learn/src/cn/itcast/bean/TestIOC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring_learn/src/cn/itcast/ioc/TestIOC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring_learn/src/cn/itcast/ioc/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring_learn/src/ioc/TestService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring_learn/src/ioc/UserDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring_learn/src/ioc/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring_learn/src/property/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring_learn/src/property/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring_learn/src/property/PropertyDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring_learn/src/property/TestIOC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/annotation/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bean1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/src/Concurrency/AttemptLocking.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/src/Concurrency/CriticalSection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/src/Concurrency/EvenChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/src/Concurrency/EventGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/src/Concurrency/IntGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/src/Concurrency/Interrupting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/src/Concurrency/Joining.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/src/Concurrency/MutexEvenGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/src/Concurrency/OrnamentalGarden.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/src/Concurrency/SimpleDaemons.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/src/Concurrency/SynchronizedEvenGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/src/Concurrency/ThreadLocalVariableHolder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/src/Concurrency/WaxOMatic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/src/exceptions/FullConstructors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/src/leetcode/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/src/leetcode/myPow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/src/quickstart/New.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/src/quickstart/QueueBehavior.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../src/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/out/production/src/META-INF/src.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/out/production/src/stringBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/out/production/src/treeSet/TreeSetTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../src/out/production/src/treeSet/TreeSetTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring_learn/lib/aspectjweaver-1.8.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring_learn/src/aop/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring_learn/src/aop/MyBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring_learn/src/aop/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/annotation/TestAnno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/annotation/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/annotation/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bean2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xmlanno/BookDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xmlanno/BookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xmlanno/OrdersDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring_learn/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring_learn/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring_learn/out/production/Spring_learn/bean1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring_learn/out/production/Spring_learn/bean1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring_learn/src/bean1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring_learn/src/bean1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring注解.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Spring注解.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/annotation/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/annotation/User.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -50,29 +29,107 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/annotation/User.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="72">
+              <caret line="4" selection-start-line="4" selection-end-line="11" selection-end-column="1" />
               <folding>
-                <element signature="e#63#64#0" expanded="true" />
-                <element signature="e#84#85#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/annotation/UserService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="5" column="46" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/xmlanno/BookService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="17" column="1" selection-end-line="17" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/xmlanno/BookDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="4" column="42" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
+              <folding>
+                <element signature="e#64#65#0" expanded="true" />
+                <element signature="e#113#114#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/xmlanno/OrdersDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <folding>
+                <element signature="e#65#66#0" expanded="true" />
+                <element signature="e#114#115#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/annotation/UserDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="9" column="1" selection-start-line="4" selection-end-line="9" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/annotation/TestAnno.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/bean1.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
-              <caret line="10" column="60" selection-start-line="10" selection-start-column="60" selection-end-line="10" selection-end-column="60" />
+              <caret line="10" column="87" selection-end-line="10" selection-end-column="87" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/bean2.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="384">
+              <caret line="16" column="8" selection-end-line="16" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -93,15 +150,15 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/annotation/User.java" />
         <option value="$PROJECT_DIR$/src/bean1.xml" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/src/annotation/User.java" />
+        <option value="$PROJECT_DIR$/src/annotation/UserDao.java" />
+        <option value="$PROJECT_DIR$/src/annotation/TestAnno.java" />
+        <option value="$PROJECT_DIR$/src/xmlanno/OrdersDao.java" />
+        <option value="$PROJECT_DIR$/src/xmlanno/BookDao.java" />
+        <option value="$PROJECT_DIR$/src/bean2.xml" />
+        <option value="$PROJECT_DIR$/src/annotation/UserService.java" />
+        <option value="$PROJECT_DIR$/src/xmlanno/BookService.java" />
       </list>
     </option>
   </component>
@@ -119,7 +176,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -137,18 +194,36 @@
               <item name="Spring注解" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Spring注解" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring注解" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="annotation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring注解" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring注解" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="xmlanno" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -162,6 +237,45 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="JUnit.BookService.add">
+    <configuration name="BookService.add" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Spring注解" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="xmlanno.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="xmlanno" />
+      <option name="MAIN_CLASS_NAME" value="xmlanno.BookService" />
+      <option name="METHOD_NAME" value="add" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestAnno" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Spring注解" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="annotation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="annotation" />
+      <option name="MAIN_CLASS_NAME" value="annotation.TestAnno" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BookService.add" />
+        <item itemvalue="JUnit.TestAnno" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -172,46 +286,61 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1558620002077</updated>
-      <workItem from="1558620035739" duration="994000" />
+      <workItem from="1558620035739" duration="1083000" />
+      <workItem from="1558776104044" duration="5294000" />
+      <workItem from="1558857000836" duration="568000" />
+      <workItem from="1558862142223" duration="557000" />
+      <workItem from="1558867815486" duration="17000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="TestAnno - 2019.05.25 at 17h 29m 13s.xml">
+      <configuration name="TestAnno" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestAnno - 2019.05.25 at 17h 32m 47s.xml">
+      <configuration name="TestAnno" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestAnno - 2019.05.25 at 18h 02m 06s.xml">
+      <configuration name="TestAnno" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="994000" />
+    <option name="totallyTimeSpent" value="7519000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="3" y="23" width="1677" height="1003" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2498469" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26209432" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Spring" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32893288" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Spring" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="13" visible="true" weight="0.32893288" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -220,11 +349,69 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/annotation/User.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="72">
+          <caret line="4" selection-start-line="4" selection-end-line="11" selection-end-column="1" />
           <folding>
-            <element signature="e#63#64#0" expanded="true" />
-            <element signature="e#84#85#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/annotation/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="5" column="46" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/xmlanno/BookService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="17" column="1" selection-end-line="17" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/xmlanno/BookDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="42" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
+          <folding>
+            <element signature="e#64#65#0" expanded="true" />
+            <element signature="e#113#114#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/xmlanno/OrdersDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#65#66#0" expanded="true" />
+            <element signature="e#114#115#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/annotation/UserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="9" column="1" selection-start-line="4" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/annotation/TestAnno.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -232,7 +419,14 @@
     <entry file="file://$PROJECT_DIR$/src/bean1.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
-          <caret line="10" column="60" selection-start-line="10" selection-start-column="60" selection-end-line="10" selection-end-column="60" />
+          <caret line="10" column="87" selection-end-line="10" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bean2.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="16" column="8" selection-end-line="16" selection-end-column="8" />
         </state>
       </provider>
     </entry>
